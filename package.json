@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suryaRepos369/password-gen.git"
+    "url": "https://github.com/suryaRepos369/password-gen.git"
   },
-  "author": "surya",
-  "license": "ISC",
+  "author": "suryac369",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suryaRepos369/password-gen/issues"
   },
