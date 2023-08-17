@@ -19,7 +19,7 @@ function shuffleAndExtractNCharacters(inputString, n) {
     const upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const lower = "abcdefghijklmnopqrstuvwxyz";
     const number = "1234567890";
-    const special = `~!@#$%^&*()_+><?/";:`;
+    const special = `~!#$%^&*()_+><?/";:`;
   
     switch (charType) {
       case 'upper':

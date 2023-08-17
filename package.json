@@ -1,5 +1,5 @@
 {
-  "name": "password-gen",
+  "name": "password-shuffler-and-generator",
   "version": "1.0.0",
   "description": "Random Password generator",
   "main": "index.js",
